@@ -1,0 +1,19 @@
+current directory: /home/surendra/Desktop/new_test_ruby/my-app/vendor/ruby/2.2.0/gems/byebug-10.0.2/ext/byebug
+/home/surendra/.rvm/rubies/ruby-2.2.3/bin/ruby -r ./siteconf20220303-17650-10l40am.rb extconf.rb
+creating Makefile
+
+current directory: /home/surendra/Desktop/new_test_ruby/my-app/vendor/ruby/2.2.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/surendra/Desktop/new_test_ruby/my-app/vendor/ruby/2.2.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling context.c
+compiling locker.c
+compiling byebug.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/surendra/Desktop/new_test_ruby/my-app/vendor/ruby/2.2.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20220303-17650-xv7wjp/byebug

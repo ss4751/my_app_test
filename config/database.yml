@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  username: postgres
+  password: postgres123
+  host: localhost
+  port: 5432
+  database: my_app_test
